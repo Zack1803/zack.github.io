@@ -2,7 +2,7 @@
 
 Hello, Welcome to my Githbub website! I will be posting BDA-594 Web Exercise solutions on this webiste. 
 
-# Premier League Match Report 2019-2020
+## Premier League Match Report 2019-2020
 
 [Premier League 19/20 dataset](https://www.kaggle.com/ekrembayar/premier-league-match-reports-20192020 ).
 
@@ -77,7 +77,7 @@ We will introduce three new attributes i.e, Goals Scored, Goals Conceded, Goal D
 From the above table we can see that, although Newcastle secured 65 points and the 5th Place, their attacking and defensive contributions were below par compared to the remainder of top 6 teams (Goal difference of only 5 ). Hence, we can say that points table doesn't always go hand in hand with the actual team performance.
 **The Premier League 2019/20 Dataset** will help us find more of such inconsistencies and will allow the managers to make better informed decisions.
 
-# R and Data Mining: Examples and Case Studies
+## R and Data Mining: Examples and Case Studies
 
 [ R and Data Mining: Examples and Case Studies ](https://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf).
 
