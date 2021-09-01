@@ -1,6 +1,6 @@
 ## Welcome to Zack's Arena
 
-## Premier League Match Report 2019-2020
+# Premier League Match Report 2019-2020
 
 https://www.kaggle.com/ekrembayar/premier-league-match-reports-20192020
 
@@ -53,9 +53,19 @@ The dataset can also help answer some of the advanced questions question such as
 
 Sometimes, only numbers can be misleading and further in depth analysis would be needed to determine the root cause of it.
 
-# Header 1
-## Header 2
-### Header 3
+# R and Data Mining: Examples and Case Studies
+
+https://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf
+
+
+The above-mentioned book is written by Yanchang Zhao and was published by Elsevier in December 2012. The book majorly focuses on the usage of R for various data mining applications. The reason why I chose this book is because it introduces the basic definition of Data Mining, various data mining techniques along with real world applications. The author concisely describes how data mining applications can be broken down into six major phases i.e, business understanding, data understanding, data preparation, modeling, evaluation and deployment. What I like the most about the book is that the author not only covers the theoretical aspects of data mining but also provides hands-on experience of R programming on various datasets.The book begins with introducing how data can be imported and exported from various data sources into the R environment. Next it introduces how we can examine the data in terms of dimensionality as well as the structure of the data and use various plots to further 
+The author also introduces the readers to various datasets that can be analysed using various R packages such as lattice, ggplot, rpart amongst others. The author very neatly describes how and when different kinds of plots should be used based on the types of data points available.
+I believe that this information is very crucial as the usage of inappropriate graphs or plots can lead to misrepresentation of information which might lead to a catastrophe.
+
+Author also sheds light on various types of machine learning algorithms such as Regression, Clustering, Decio Trees and Outlier Detection along with their usage and their effectiveness on various kinds of data. I believe that this section is very useful for a person who aspires to be a data scientist as it is crucial to understand the working of algorithms and also selecting the one that would best fit the given use case.
+
+ Overall I believe that this book is very comprehensive and is a good starting point for the people who want to get started with data science with R programming. The book explains each chapter in detail along with hands-on exercise for the same. 
+
 
 - Bulleted
 - List
