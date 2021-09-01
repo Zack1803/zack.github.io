@@ -51,7 +51,14 @@ The dataset can also help answer some of the advanced questions question such as
   3. Who has the best shot conversion rate in the league?
   4. What is the style of play of a particular team? ( This can be determined by examining the type of passes made by the team. For example: If a team has a lower percentage of possession and more long passes compared to short passes, then the likelihood of them playing on the counter attack is pretty high. Similarly, if a team has more ball possession and higher number of close range passes then it is likely that the team’s style of play is based on 3 P’s i.e, Possession, position and passing.
 
-Sometimes, only numbers can be misleading and further in depth analysis would be needed to determine the root cause of it.
+Sometimes, only numbers can be misleading and further in depth analysis would be needed to determine the root cause of it. To explain it further, let's study the example of Newcastle United’s 2011/2012 premier league season in which they finished 5th on the table. Here’s how the point table looked like for the top 6 teams:
+
+| Club | Matches Played | Won | Draw | Lost | Points |
+| Manchester City | 38 | 28 | 5 | 5 | 89 |
+| Manchester United | 28 | 5 | 5 | 89 |
+| Arsenal |  21 | 7 | 10 | 70 |
+| Tottenham | 20 | 9 | 9 | 69 |
+| Newcastle United | 19 | 8 | 11 | 65 |
 
 # R and Data Mining: Examples and Case Studies
 
