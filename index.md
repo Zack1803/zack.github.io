@@ -61,6 +61,17 @@ Sometimes, only numbers can be misleading and further in depth analysis would be
 | Newcastle United | 38 | 19 | 8 | 11 | 65 |
 | Chelsea | 38 | 18 | 10 | 10 | 64 |
 
+**Note**: After looking at the above table it seems as if Newcastle played better than Chelsea. But is that the case? Let dig a bit deeper to find the answers.
+We will introduce three new attributes i.e, Goals Scored, Goals Conceded, Goal Difference (Goals Scored -  Goals Conceded). Here's how the new table looks like:
+
+| Club | Matches Played | Won | Draw | Lost | Goals Scored | Goals Conceded | Goal Difference | Points |
+| Manchester City | 38 | 28 | 5 | 5 | 89 |
+| Manchester United |38 |28 | 5 | 5 | 89 |
+| Arsenal | 38 | 21 | 7 | 10 | 70 |
+| Tottenham |38| 20 | 9 | 9 | 69 |
+| Newcastle United | 38 | 19 | 8 | 11 | 65 |
+| Chelsea | 38 | 18 | 10 | 10 | 64 |
+
 # R and Data Mining: Examples and Case Studies
 
 https://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf
