@@ -1,6 +1,6 @@
 ## Welcome to Zack's Arena
 
-## Premier League Match Reports 2019-2020
+## Premier League Match Report 2019-2020
 
 https://www.kaggle.com/ekrembayar/premier-league-match-reports-20192020
 
@@ -8,18 +8,12 @@ The above mentioned dataset is a publicly available Premier League dataset on Ka
 
 The following is an overview of the dataset:
 
-Usage
-Public
-Provenance
-Ekrem Bayar
-Columns
-33
-Rows
-760
-Update Frequency
-Annually
-Last Updated on
-8th August 2020
+ | Usage | Public |
+ | Provenance | Ekrem Bayar |
+ | Columns | 33 |
+ | Rows | 760 |
+ | Update Frequency | Annually |
+ | Last Updated on | 8th August 2020 |
 
 
 
