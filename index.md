@@ -65,12 +65,15 @@ Sometimes, only numbers can be misleading and further in depth analysis would be
 We will introduce three new attributes i.e, Goals Scored, Goals Conceded, Goal Difference (Goals Scored -  Goals Conceded). Here's how the new table looks like:
 
 | Club | Matches Played | Won | Draw | Lost | Goals Scored | Goals Conceded | Goal Difference | Points |
-| Manchester City | 38 | 28 | 5 | 5 | 89 |
-| Manchester United |38 |28 | 5 | 5 | 89 |
-| Arsenal | 38 | 21 | 7 | 10 | 70 |
-| Tottenham |38| 20 | 9 | 9 | 69 |
-| Newcastle United | 38 | 19 | 8 | 11 | 65 |
-| Chelsea | 38 | 18 | 10 | 10 | 64 |
+| Manchester City | 38 | 28 | 5 | 5 | 93 | 29 | 64| 89 |
+| Manchester United |38 |28 | 5 | 5 | 89| 33 |56 | 89 |
+| Arsenal | 38 | 21 | 7 | 10 | 74| 49 |25 | 70 |
+| Tottenham |38| 20 | 9 | 9 | 66 | 41| 25 | 69 |
+| Newcastle United | 38 | 19 | 8 | 11 | 56 | 51 | 5 | 65 |
+| Chelsea | 38 | 18 | 10 | 10 | 65 | 46 | 19 | 64 |
+
+From the above table we can see that, although Newcastle secured 65 points and the 5th Place, their attacking and defensive contributions were below par comapred to the remainder of top 6 teams (Goal difference of only 5 ). Hence, we can say that points table doesn't aways go hand in hand with the actual team performance.
+**The Premier League 2019/20 Dataset** will help us find more of such inconsistencies and will allow the managers to make better informed decisions.
 
 # R and Data Mining: Examples and Case Studies
 
