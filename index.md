@@ -77,7 +77,7 @@ From the above table we can see that, although Newcastle secured 65 points and t
 
 # R and Data Mining: Examples and Case Studies
 
-https://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf
+[ R and Data Mining: Examples and Case Studies ](https://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf).
 
 
 The above-mentioned book is written by Yanchang Zhao and was published by Elsevier in December 2012. The book majorly focuses on the usage of R for various data mining applications. The reason why I chose this book is because it introduces the basic definition of Data Mining, various data mining techniques along with real world applications. The author concisely describes how data mining applications can be broken down into six major phases i.e, business understanding, data understanding, data preparation, modeling, evaluation and deployment. What I like the most about the book is that the author not only covers the theoretical aspects of data mining but also provides hands-on experience of R programming on various datasets.The book begins with introducing how data can be imported and exported from various data sources into the R environment. Next it introduces how we can examine the data in terms of dimensionality as well as the structure of the data and use various plots to further 
