@@ -1,5 +1,7 @@
 ## Welcome to Zack's Arena
 
+Hello, Welcome to my Githbub website! I will be posting BDA-594 Web Exercise solutions on this webiste. 
+
 # Premier League Match Report 2019-2020
 
 [Premier League 19/20 dataset](https://www.kaggle.com/ekrembayar/premier-league-match-reports-20192020 ).
@@ -61,7 +63,7 @@ Sometimes, only numbers can be misleading and further in depth analysis would be
 | Newcastle United | 38 | 19 | 8 | 11 | 65 |
 | Chelsea | 38 | 18 | 10 | 10 | 64 |
 
-**Note**: After looking at the above table it seems as if Newcastle played better than Chelsea. But is that the case? Let dig a bit deeper to find the answers.
+**Note**: After looking at the above table it seems as if Newcastle played better than Chelsea. But is that the case? Let's dig a bit deeper to find the answers.
 We will introduce three new attributes i.e, Goals Scored, Goals Conceded, Goal Difference (Goals Scored -  Goals Conceded). Here's how the new table looks like:
 
 | Club | Matches Played | Won | Draw | Lost | Goals Scored | Goals Conceded | Goal Difference | Points |
@@ -72,7 +74,7 @@ We will introduce three new attributes i.e, Goals Scored, Goals Conceded, Goal D
 | Newcastle United | 38 | 19 | 8 | 11 | 56 | 51 | 5 | 65 |
 | Chelsea | 38 | 18 | 10 | 10 | 65 | 46 | 19 | 64 |
 
-From the above table we can see that, although Newcastle secured 65 points and the 5th Place, their attacking and defensive contributions were below par comapred to the remainder of top 6 teams (Goal difference of only 5 ). Hence, we can say that points table doesn't aways go hand in hand with the actual team performance.
+From the above table we can see that, although Newcastle secured 65 points and the 5th Place, their attacking and defensive contributions were below par compared to the remainder of top 6 teams (Goal difference of only 5 ). Hence, we can say that points table doesn't always go hand in hand with the actual team performance.
 **The Premier League 2019/20 Dataset** will help us find more of such inconsistencies and will allow the managers to make better informed decisions.
 
 # R and Data Mining: Examples and Case Studies
