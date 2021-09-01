@@ -87,25 +87,3 @@ I believe that this information is very crucial as the usage of inappropriate gr
 Author also sheds light on various types of machine learning algorithms such as Regression, Clustering, Decio Trees and Outlier Detection along with their usage and their effectiveness on various kinds of data. I believe that this section is very useful for a person who aspires to be a data scientist as it is crucial to understand the working of algorithms and also selecting the one that would best fit the given use case.
 
  Overall I believe that this book is very comprehensive and is a good starting point for the people who want to get started with data science with R programming. The book explains each chapter in detail along with hands-on exercise for the same. 
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zack1803/zack.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
