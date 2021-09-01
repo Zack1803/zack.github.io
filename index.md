@@ -59,6 +59,7 @@ Sometimes, only numbers can be misleading and further in depth analysis would be
 | Arsenal | 38 | 21 | 7 | 10 | 70 |
 | Tottenham |38| 20 | 9 | 9 | 69 |
 | Newcastle United | 38 | 19 | 8 | 11 | 65 |
+| Chelsea | 38 | 18 | 10 | 10 | 64 |
 
 # R and Data Mining: Examples and Case Studies
 
