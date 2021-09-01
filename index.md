@@ -2,7 +2,7 @@
 
 # Premier League Match Report 2019-2020
 
-[Premier League 19/20 dataset] (https://www.kaggle.com/ekrembayar/premier-league-match-reports-20192020 )
+[Premier League 19/20 dataset](https://www.kaggle.com/ekrembayar/premier-league-match-reports-20192020 ).
 
 The above mentioned dataset is a publicly available Premier League dataset on Kaggle maintained by Ekrem Bayar. Premier League also known as English Premier League is a top tier soccer league in England where 20 teams compete for the title every year. The given dataset is a collection of the key data points of the Premier League 2019-20 season. 
 
